@@ -1,0 +1,5 @@
+first=input('первое число: ')
+second=input('второе число: ')
+third=input('третье число: ')
+fourth=input('четвёртое число: ')
+print(first,second,third,fourth, sep=' ')
